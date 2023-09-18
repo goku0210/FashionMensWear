@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://localhost:63675/FashionMen'sWear/img/B1S.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:63675/FashionMen'sWear/img/B3S.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:63675/FashionMen'sWear/img/B7S.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:63675/FashionMen'sWear/img/B5S.jpg</ImageUrl>
+  </Ad>
+</Advertisements>
